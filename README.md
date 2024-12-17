@@ -1,8 +1,8 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/bk1gqkghuu9yh1an?svg=true)](https://ci.appveyor.com/project/SubHunt/ahj-4-testing)
+[![Build status](https://ci.appveyor.com/api/projects/status/bk1gqkghuu9yh1an?svg=true)](https://ci.appveyor.com/project/MarusinaAnn/aj-test)
 
-![CI](https://github.com/SubHunt/ahj_4_testing/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/MarusinaAnn/aj-test/actions/workflows/web.yml/badge.svg)
 
-github-pages deployment - https://subhunt.github.io/ahj_4_testing/
+github-pages deployment - https://marusinaann.github.io/aj-test/
 
 # Домашнее задание к занятию "4.Организация тестирования"
 
